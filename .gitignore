@@ -1,0 +1,6 @@
+archive/
+__pycache__/
+*.pyc
+results/
+figures/
+findings/
